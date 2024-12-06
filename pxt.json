@@ -1,0 +1,21 @@
+{
+    "name": "Polygons",
+    "description": "Calculate the area and perimeter of various polygons.",
+    "files": [
+        "main.ts",
+        "README.md"
+    ],
+    "dependencies": {},
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj",
+    "language": {
+        "zh-tw": {
+            "name": "幾何",
+            "description": "計算各種多邊形的周長和面積。"
+        }
+    },
+    "color": "#ADD8E6", 
+    "icon": "\uF02D" 
+}
