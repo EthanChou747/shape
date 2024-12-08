@@ -47,7 +47,7 @@ namespace Polygons {
     //% group="面積"
     //% block.loc.zh-tw="圓形 面積 半徑 %radius"
     export function circleArea(radius: number): number {
-        return Math.PI * radius * radius;
+        return 3.14 * radius * radius;
     }
 
     // 周長群組
@@ -97,6 +97,6 @@ namespace Polygons {
     //% group="周長"
     //% block.loc.zh-tw="圓形 周長 半徑 %radius"
     export function circlePerimeter(radius: number): number {
-        return 2 * Math.PI * radius;
+        return 2 * 3.14 * radius;
     }
 }
