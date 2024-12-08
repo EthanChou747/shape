@@ -1,6 +1,6 @@
 {
     "name": "Polygons",
-    "description": "Calculate the area and perimeter of various polygons.",
+    "description": "Calculate the area and perimeter of various polygons. Designed by Teacher Chou. 😁",
     "files": [
         "main.ts",
         "README.md"
