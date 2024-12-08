@@ -1,3 +1,4 @@
+//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
 namespace Polygons {
     // 面積群組
     //% block="三角形 面積 底 %base 高 %height"
